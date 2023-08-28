@@ -36,9 +36,9 @@ const user = {
 
 # 🔗 Links:
 <div id="links">
-    <a href="https://www.zachgentner.com" target="_blank">
-        <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <!-- <a href="https://www.zachgentner.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Website Badge"/>
+    </a> -->
     <a href="https://www.linkedin.com/in/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
