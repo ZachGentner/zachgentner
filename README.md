@@ -40,6 +40,18 @@ const user = {
     <a href="https://www.linkedin.com/in/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.facebook.com/zachgentner/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://www.twitter.com/zach_gentner/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.leetcode.com/zachgentner/" target="_blank">
+        <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+    </a>
+    <a href="https://www.youtube.com/zachgentner/" target="_blank">
+        <img src="https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
 
 </div>
 
