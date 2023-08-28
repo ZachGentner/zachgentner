@@ -14,11 +14,11 @@
 
 ```JavaScript
 const user = {
-       name: 'Zach Gentner',
-       location: 'Michigan, USA',
-       employment: 'Available for hire!',
-       now: ['100 Days of Code', 'freeCodeCamp', 'Building projects']
-       hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
+    name: 'Zach Gentner',
+    location: 'Michigan, USA',
+    employment: 'Available for hire!',
+    now: ['100 Days of Code', 'freeCodeCamp', 'Building projects']
+    hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
 };
 ```
 
