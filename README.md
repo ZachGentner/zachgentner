@@ -39,16 +39,16 @@ const user = {
 # 🔗 Links:
 <div class="links">
     <a href="https://www.linkedin.com/in/zachgentner/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-#0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.leetcode.com/zachgentner/" target="_blank">
-        <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+        <img src="https://img.shields.io/badge/Leetcode-#f09a1a?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
     <a href="https://www.facebook.com/zachgentner/" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+        <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://www.twitter.com/zach_gentner/" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://www.youtube.com/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
