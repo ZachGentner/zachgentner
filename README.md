@@ -44,6 +44,9 @@ const user = {
     <a href="https://www.leetcode.com/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/Leetcode-F09A1A?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
+    <a href="https://stackoverflow.com/users/5982581/zach-gentner" target="_blank">
+        <img src="https://img.shields.io/badge/Stack Overflow-EF8236?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>    
     <a href="https://www.facebook.com/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
@@ -53,10 +56,6 @@ const user = {
     <a href="https://www.youtube.com/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://stackoverflow.com/users/5982581/zach-gentner" target="_blank">
-        <img src="https://img.shields.io/badge/Stack Overflow-EF8236?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
-    </a>
-
 </div>
 
 <!-- # 📊 GitHub Stats:
