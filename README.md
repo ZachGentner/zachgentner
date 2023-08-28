@@ -15,8 +15,8 @@
 ```JavaScript
 const userInfo = {
        user: 'Zach Getner',
-       hobbies: ['Hand Tool Woodworking', 'Japanese language', 'Programming', 'Hiking'],
-       country: 'US',
+       hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
+       location: 'Michigan, USA',
    }
 ```
 
