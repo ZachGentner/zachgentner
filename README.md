@@ -33,7 +33,7 @@ const userInfo = {
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=SQL&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white)
 
 <!-- LEARNING
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
