@@ -36,7 +36,12 @@ const user = {
 <!-- ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white) -->
 
 # 🔗 Links:
-<>
+<div class="links">
+    <a href="https://www.linkedin.com/in/zachgentner/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+
+</div>
 
 <!-- # 📊 GitHub Stats:
 
