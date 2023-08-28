@@ -53,6 +53,9 @@ const user = {
     <a href="https://www.youtube.com/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+    <a href="https://stackoverflow.com/users/5982581/zach-gentner" target="_blank">
+        <img src="https://img.shields.io/badge/Stack-Overflow-EF8236?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Youtube Badge"/>
+    </a>
 
 </div>
 
