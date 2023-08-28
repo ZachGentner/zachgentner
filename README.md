@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/zachgentner/">
+    <a href="https://www.linkedin.com/in/zachgentner/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -8,7 +8,7 @@
   <h1>
     Hello
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-    my name is Zach
+    I'm Zach
 </h1>
 </div>
 
@@ -23,6 +23,9 @@ const userInfo = {
 ```
 
 <!-- https://shields.io/badges -->
+
+# 🔗 Links:
+
 # 💻 Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -43,9 +46,6 @@ const userInfo = {
 ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=SQL&logoColor=white)
 
 -->
-
-# 
-
 
 <!-- # 📊 GitHub Stats:
 
