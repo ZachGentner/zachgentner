@@ -5,10 +5,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=zachgentner&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello!
+<h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-    I'm Zach
+    Hello, I'm Zach!
 </h1>
 </div>
 
@@ -23,8 +22,6 @@ const user = {
 ```
 
 <!-- https://shields.io/badges -->
-
-# 🔗 Links:
 
 # 💻 Stack:
 
@@ -43,6 +40,8 @@ const user = {
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white) -->
 
+# 🔗 Links:
+<>
 
 <!-- # 📊 GitHub Stats:
 
