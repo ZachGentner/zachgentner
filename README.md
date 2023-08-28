@@ -58,8 +58,9 @@ const user = {
     </a>
 </div>
 
+___
+
 <div id="counter" align="center">
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=zachgentner&style=flat-square&color=blue" alt=""/>
 </div>
 
