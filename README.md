@@ -22,7 +22,7 @@ const user = {
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-7910F2.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SCSS/SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -37,7 +37,7 @@ const user = {
 <!-- ![Electron](https://img.shields.io/badge/Electron-CA4245?style=for-the-badge&logo=electron&logoColor=white)  -->
 
 # 🔗 Links:
-<div class="links">
+<div id="links">
     <a href="https://www.linkedin.com/in/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -56,6 +56,10 @@ const user = {
     <a href="https://www.youtube.com/zachgentner/" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+</div>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=zachgentner&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!-- # 📊 GitHub Stats:
