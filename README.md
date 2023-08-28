@@ -1,4 +1,4 @@
-<h1 id="header" style="display:flex; justify-content: center; align-items: center">
+<h1 id="header" style="display:flex; justify-content: center; align-items: center; background-color: red;">
     <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/> -->
     <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" height="40px"/>
     Hello, I'm Zach!
