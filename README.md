@@ -13,13 +13,13 @@
 </div>
 
 ```JavaScript
-const userInfo = {
-       user: 'Zach Getner',
+const user = {
+       name: 'Zach Gentner',
        location: 'Michigan, USA',
        employment: 'Available for hire!',
-       now: ['100 Days of Code', 'React.js']
+       now: ['100 Days of Code', 'freeCodeCamp', 'Building projects']
        hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
-   }
+};
 ```
 
 <!-- https://shields.io/badges -->
