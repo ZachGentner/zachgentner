@@ -15,11 +15,14 @@
 ```JavaScript
 const userInfo = {
        user: 'Zach Getner',
-       hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
        location: 'Michigan, USA',
+       employment: 'Available for hire!',
+       now: ['100 Days of Code', 'React.js']
+       hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
    }
 ```
 
+<!-- https://shields.io/badges -->
 # 💻 Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
