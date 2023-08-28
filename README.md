@@ -1,10 +1,7 @@
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zachgentner&style=flat-square&color=blue" alt=""/>
-<h1>
+<h1 id="header" align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
     Hello, I'm Zach!
 </h1>
-</div>
 
 ```JavaScript
 const user = {
