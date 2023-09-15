@@ -31,6 +31,7 @@ const user = {
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7910F2.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SCSS/SASS](https://img.shields.io/badge/Sass-C66394?style=for-the-badge&logo=sass&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white) -->
 <!-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  -->
