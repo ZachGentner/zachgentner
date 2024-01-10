@@ -8,8 +8,8 @@
 const user = {
     name: 'Zach Gentner',
     location: 'Michigan, USA',
-    employment: 'Available for hire!',
-    now: ['100 Days of Code', 'freeCodeCamp', 'Building projects'],
+    employment: 'Artonic',
+    now: ['CS Degree WGU', 'Rootwise'],
     hobbies: ['Camping', 'Gardening', 'Reading', 'Writing'],
 };
 ```
@@ -18,20 +18,21 @@ const user = {
 
 # 💻 Stack:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/Redux-7248B6?style=for-the-badge&logo=redux&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-7248B6?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7910F2.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SCSS/SASS](https://img.shields.io/badge/Sass-C66394?style=for-the-badge&logo=sass&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-7910F2.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS/SASS](https://img.shields.io/badge/Sass-C66394?style=for-the-badge&logo=sass&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white) -->
 <!-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  -->
@@ -39,6 +40,7 @@ const user = {
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
 # 🔗 Links:
+
 <div id="links">
     <!-- <a href="https://www.zachgentner.com" target="_blank">
         <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Website Badge"/>
@@ -66,7 +68,7 @@ const user = {
     </a>
 </div>
 
-___
+---
 
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=zachgentner&style=flat-square&color=blue" alt=""/>
